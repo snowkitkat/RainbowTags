@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RainbowTags</name>
+    </assembly>
+    <members>
+        <member name="T:RainbowTags.Components.RainbowTagController">
+            <summary>
+            Controls the color rotation in tag sequences for players that have a rainbow tag.
+            </summary>
+        </member>
+        <member name="P:RainbowTags.Components.RainbowTagController.Colors">
+            <summary>
+            Gets or sets the colors in the sequence.
+            </summary>
+        </member>
+        <member name="P:RainbowTags.Components.RainbowTagController.Interval">
+            <summary>
+            Gets or sets the time, in seconds, between switching to the next color in a sequence.
+            </summary>
+        </member>
+        <member name="T:RainbowTags.Config">
+            <inheritdoc />
+        </member>
+        <member name="P:RainbowTags.Config.IsEnabled">
+            <inheritdoc/>
+        </member>
+        <member name="P:RainbowTags.Config.TagInterval">
+            <summary>
+            Gets or sets the time, in seconds, between switching to the next color in a sequence.
+            </summary>
+        </member>
+        <member name="P:RainbowTags.Config.Sequences">
+            <summary>
+            Gets or sets a collection of group names with their respective color sequences.
+            </summary>
+        </member>
+        <member name="T:RainbowTags.EventHandlers">
+            <summary>
+            Handles events derived from <see cref="N:Exiled.Events.Handlers"/>.
+            </summary>
+        </member>
+        <member name="M:RainbowTags.EventHandlers.#ctor(RainbowTags.Plugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:RainbowTags.EventHandlers"/> class.
+            </summary>
+            <param name="plugin">An instance of the <see cref="T:RainbowTags.Plugin"/> class.</param>
+        </member>
+        <member name="M:RainbowTags.EventHandlers.OnChangingGroup(Exiled.Events.EventArgs.Player.ChangingGroupEventArgs)">
+            <inheritdoc cref="M:Exiled.Events.Handlers.Player.OnChangingGroup(Exiled.Events.EventArgs.Player.ChangingGroupEventArgs)"/>
+        </member>
+        <member name="T:RainbowTags.Plugin">
+            <summary>
+            The main plugin class.
+            </summary>
+        </member>
+        <member name="P:RainbowTags.Plugin.RequiredExiledVersion">
+            <inheritdoc/>
+        </member>
+        <member name="M:RainbowTags.Plugin.OnEnabled">
+            <inheritdoc/>
+        </member>
+        <member name="M:RainbowTags.Plugin.OnDisabled">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.csproj.AssemblyReference.cache
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.AssemblyInfoInputs.cache
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.AssemblyInfo.cs
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.csproj.CoreCompileInputs.cache
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\bin\Debug\RainbowTags.dll
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\bin\Debug\RainbowTags.pdb
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\bin\Debug\RainbowTags.xml
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.csproj.CopyComplete
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.dll
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.xml
+C:\Users\snow\Desktop\Plugins\RainbowTags-master\RainbowTags\obj\Debug\RainbowTags.pdb

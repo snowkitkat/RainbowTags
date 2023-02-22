@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9lSwBKiPrMuA3lLJJ2W5CY5JQePKd69fN4G3rZSu8irPYdBKhg4wMDQeo3Nv+9TfcRYouiBJ+NQbdbNToUjmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snow\\Desktop\\Plugins\\RainbowTags-master\\RainbowTags\\RainbowTags.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snow\\.nuget\\packages\\exiled\\6.0.0-beta.26\\exiled.6.0.0-beta.26.nupkg.sha512",
+    "C:\\Users\\snow\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
