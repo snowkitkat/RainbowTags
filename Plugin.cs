@@ -21,6 +21,12 @@ namespace RainbowTags
         /// <inheritdoc/>
         public override Version RequiredExiledVersion { get; } = new Version(5, 0, 0);
 
+        public override string Author { get; } = "Snow";
+
+        public override string Name { get; } = "RainbowTags";
+
+        public override string Prefix { get; } = "RainbowTags";
+
         /// <inheritdoc/>
         public override void OnEnabled()
         {
