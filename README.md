@@ -2,7 +2,8 @@
 A port of rainbowtags before it was archived. Find original [here](https://github.com/BuildBoy12-SL/RainbowTags).
 
 # Features
-- Detects if the user is in 173 and replaces their item with a whitelisted item.
+- Allows a user's tag color to be switched with different server-allowed colors (no global tag/restricted colors).
+- Allows different colors to be specified.
 
 # Default config:
 ```yaml
