@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snow\\Desktop\\Plugins\\RainbowTags-master\\RainbowTags\\RainbowTags.csproj": {}
+    "C:\\Users\\jayce\\RiderProjects\\RainbowTags\\RainbowTags.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snow\\Desktop\\Plugins\\RainbowTags-master\\RainbowTags\\RainbowTags.csproj": {
+    "C:\\Users\\jayce\\RiderProjects\\RainbowTags\\RainbowTags.csproj": {
       "version": "3.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snow\\Desktop\\Plugins\\RainbowTags-master\\RainbowTags\\RainbowTags.csproj",
+        "projectUniqueName": "C:\\Users\\jayce\\RiderProjects\\RainbowTags\\RainbowTags.csproj",
         "projectName": "RainbowTags",
-        "projectPath": "C:\\Users\\snow\\Desktop\\Plugins\\RainbowTags-master\\RainbowTags\\RainbowTags.csproj",
-        "packagesPath": "C:\\Users\\snow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snow\\Desktop\\Plugins\\RainbowTags-master\\RainbowTags\\obj\\",
+        "projectPath": "C:\\Users\\jayce\\RiderProjects\\RainbowTags\\RainbowTags.csproj",
+        "packagesPath": "C:\\Users\\jayce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jayce\\RiderProjects\\RainbowTags\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\snow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jayce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -48,12 +48,18 @@
               "target": "Package",
               "version": "[6.0.0-beta.26, )"
             },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
             "StyleCop.Analyzers": {
               "target": "Package",
               "version": "[1.1.118, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\snow\\.dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

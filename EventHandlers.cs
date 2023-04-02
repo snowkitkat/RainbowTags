@@ -32,6 +32,8 @@ namespace RainbowTags
         {
             if (!ev.IsAllowed)
                 return;
+            if (ev.Player.GlobalBadge.HasValue)
+                return;
 
             bool hasColors = TryGetColors(ev.NewGroup?.GetKey(), out string[] colors);
 
